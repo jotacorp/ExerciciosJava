@@ -1,2 +1,3 @@
 # ExerciciosJava
- Exercicios linguagem Java
+ Repositório destinado a exercícios de fixação,
+ utilizando a linguágem de programação Java.
